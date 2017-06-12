@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>sequence</key>
+<dict><key>LanguageName</key><string>multilingual_Name_cn</string>
+<key>Price</key><string>price</string>
+<key>Company</key><string>unit</string>
+<key>Number</key><string>number</string>
+<key>序列</key><string>sequence</string>
+<key>Name</key><string>name</string>
+<key>图片ID</key><string>Icon_ID</string>
+<key>LanguageDescID</key><string>multilingual_description_ID</string>
+<key>Function</key><string>funtion</string>
+<key>LanguageID</key><string>multilingual_Name_ID</string>
+<key>LanguageDesc</key><string>multilingual_description_cn</string>
+<key>Languageen</key><string>multilingual_Name_en</string>
+</dict>
+
+ <key>1</key>
+<dict><key>LanguageName</key><string>裤子小帅</string>
+<key>Price</key><string>0</string>
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_001</string>
+<key>序列</key><string>1</string>
+<key>图片ID</key><string>Icon_hero_001</string>
+<key>LanguageDescID</key><string>des_hero_001</string>
+<key>Function</key><string>0</string>
+<key>LanguageID</key><string>name_hero_001</string>
+<key>LanguageDesc</key><string>夜黑风高，冷风萧萧</string>
+</dict>
+ 
+ <key>2</key>
+<dict><key>LanguageName</key><string>B货阿福</string>
+<key>Price</key><string>100</string>
+<key>RMB</key><string>2</string>
+<key>Paycode</key><string>001</string>
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_002</string>
+<key>序列</key><string>2</string>
+<key>图片ID</key><string>Icon_hero_002</string>
+<key>LanguageDescID</key><string>des_hero_002</string>
+<key>Function</key><string>0</string>
+<key>LanguageID</key><string>name_hero_002</string>
+<key>LanguageDesc</key><string>请不要用我的所作所为来定义我</string>
+</dict>
+  
+<key>3</key>
+<dict><key>LanguageName</key><string>小霾神</string>
+<key>Price</key><string>50</string>
+<key>RMB</key><string>1</string>
+<key>Paycode</key><string>002</string>
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_003</string>
+<key>序列</key><string>3</string>
+<key>图片ID</key><string>Icon_hero_003</string>
+<key>LanguageDescID</key><string>des_hero_003</string>
+<key>Function</key><string>0</string>
+<key>LanguageID</key><string>name_hero_003</string>
+<key>LanguageDesc</key><string>哎！人类啊！我只能带上口罩进行这次行动了</string>
+</dict>
+  
+ <key>4</key>
+<dict><key>LanguageName</key><string>蛋蛋的忧伤</string>
+<key>Price</key><string>100</string>
+<key>RMB</key><string>2</string>
+<key>Paycode</key><string>003</string>
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_004</string>
+<key>序列</key><string>4</string>
+<key>图片ID</key><string>Icon_hero_004</string>
+<key>LanguageDescID</key><string>des_hero_004</string>
+<key>Function</key><string>0</string>
+<key>LanguageID</key><string>name_hero_004</string>
+<key>LanguageDesc</key><string>等哥变天鹅的时候你还是个蛋呢！</string>
+</dict>
+
+  <key>5</key>
+<dict><key>LanguageName</key><string>金小胖</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>004</string>
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_005</string>
+<key>序列</key><string>5</string>
+<key>图片ID</key><string>Icon_hero_005</string>
+<key>LanguageDescID</key><string>des_hero_005</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_005</string>
+<key>LanguageDesc</key><string>请叫我伟大的裤子使者！</string>
+</dict>
+  
+   <key>6</key>
+<dict><key>LanguageName</key><string>茅房阿三</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>005</string>
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_006</string>
+<key>序列</key><string>6</string>
+<key>图片ID</key><string>Icon_hero_006</string>
+<key>LanguageDescID</key><string>des_hero_006</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_006</string>
+<key>LanguageDesc</key><string>嘿~朋友，三串咖喱鱼蛋换一条裤子怎么样？</string>
+</dict>
+  
+    <key>7</key>
+<dict><key>LanguageName</key><string>猥琐爱神</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>006</string>  
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_007</string>
+<key>序列</key><string>7</string>
+<key>图片ID</key><string>Icon_hero_007</string>
+<key>LanguageDescID</key><string>des_hero_007</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_007</string>
+<key>LanguageDesc</key><string>你还记得大名湖畔遗落的小短裤么？</string>
+</dict>
+  
+<key>8</key>
+<dict><key>LanguageName</key><string>来自猩猩的我</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>007</string>  
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_008</string>
+<key>序列</key><string>8</string>
+<key>图片ID</key><string>Icon_hero_008</string>
+<key>LanguageDescID</key><string>des_hero_008</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_008</string>
+<key>LanguageDesc</key><string>三大爱好：炸鸡、啤酒、小短裤</string>
+</dict>
+  
+<key>9</key>
+<dict><key>LanguageName</key><string>胸毛阿宝</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>008</string>  
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_009</string>
+<key>序列</key><string>9</string>
+<key>图片ID</key><string>Icon_hero_009</string>
+<key>LanguageDescID</key><string>des_hero_009</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_009</string>
+<key>LanguageDesc</key><string>胸毛长在熊猫上，熊猫上面长胸毛！</string>
+</dict>
+  
+<key>10</key>
+<dict><key>LanguageName</key><string>A货阿钢</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>009</string>  
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_010</string>
+<key>序列</key><string>10</string>
+<key>图片ID</key><string>Icon_hero_010</string>
+<key>LanguageDescID</key><string>des_hero_010</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_010</string>
+<key>LanguageDesc</key><string>俺是高仿滴！不是角色扮演哟~</string>
+</dict>
+  
+<key>11</key>
+<dict><key>LanguageName</key><string>互撸娃</string>
+<key>Price</key><string>800</string>
+<key>RMB</key><string>10</string>
+<key>Paycode</key><string>010</string>  
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_011</string>
+<key>序列</key><string>11</string>
+<key>图片ID</key><string>Icon_hero_011</string>
+<key>LanguageDescID</key><string>des_hero_011</string>
+<key>Function</key><string>1</string>
+<key>LanguageID</key><string>name_hero_011</string>
+<key>LanguageDesc</key><string>一条裤子两朵大红花</string>
+</dict>
+  
+<key>12</key>
+<dict><key>LanguageName</key><string>泼猴</string>
+<key>Price</key><string>3000</string>
+<key>RMB</key><string>20</string>
+<key>Paycode</key><string>011</string>  
+<key>Company</key><string>panty score</string>
+<key>Number</key><string>hero_012</string>
+<key>序列</key><string>12</string>
+<key>图片ID</key><string>Icon_hero_012</string>
+<key>LanguageDescID</key><string>des_hero_012</string>
+<key>Function</key><string>2</string>
+<key>LanguageID</key><string>name_hero_012</string>
+<key>LanguageDesc</key><string>呔！女妖精！你家卖裤子吗？</string>
+</dict></dict>
+</plist>

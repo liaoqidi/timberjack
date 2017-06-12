@@ -1,0 +1,239 @@
+com.aspire.vending.auth.AuthNetwork:
+    private static final java.lang.String TAG
+com.aspire.vending.auth.AuthRequest:
+    33:34:public void setStatusCode(mm.vending.OnPurchaseListener$StatusCode)
+    45:45:public java.lang.String getSubsNumb()
+    53:53:public java.lang.String getPictureSize()
+    61:61:public java.lang.String getProgramId()
+com.aspire.vending.auth.AuthResponse:
+    private com.aspire.vending.auth.Auth auth
+    32:32:public java.lang.String getRamNum()
+    66:66:public com.aspire.vending.auth.Auth getAuth()
+    70:71:public void setAuth(com.aspire.vending.auth.Auth)
+    82:82:public java.lang.String getFeeRemind()
+    114:114:public java.lang.String getMultiSubs()
+com.aspire.vending.auth.AuthUtil:
+    private static final java.lang.String TAG
+com.aspire.vending.base.Request:
+    private static final java.lang.String TAG
+com.aspire.vending.base.TimeHandler:
+    public static final int HANDLER_TIME_WAIT
+    public static final int HANDLER_TIME_FINISH
+com.aspire.vending.base.VerifyAuth:
+    private static final java.lang.String TAG
+    24:25:public void removeGetable(com.aspire.vending.base.Getable)
+    28:29:public void removeAll()
+com.aspire.vending.billing.BillingArgs:
+    private java.lang.String feeRemind
+    83:83:public java.lang.String getFeeRemind()
+    87:88:public void setFeeRemind(java.lang.String)
+com.aspire.vending.billing.BillingDialogFactory:
+    private android.widget.TextView countTxt
+    private static final int ID_CODE_TXT
+    private static final int ID_PWD_TXT
+    private static final int ID_COUNT_TXT
+    private static final int ID_SMS_CODE_TXT
+    452:458:private android.graphics.drawable.Drawable getKeyBackground()
+    973:973:public java.lang.String getCount()
+    1228:1228:public java.lang.Boolean checkInputEnv()
+com.aspire.vending.billing.BillingNetwork:
+    private static final java.lang.String TAG
+com.aspire.vending.billing.BillingRequest:
+    39:39:public java.lang.String getDyMark()
+    51:52:public void setStatusCode(mm.vending.OnPurchaseListener$StatusCode)
+com.aspire.vending.billing.BillingResponse:
+    private java.lang.String 
+    private com.aspire.vending.auth.Auth auth
+    19:19:public java.lang.String getRamNum()
+    27:27:public java.lang.String get()
+    31:32:public void set(java.lang.String)
+    35:35:public com.aspire.vending.auth.Auth getAuth()
+    39:40:public void setAuth(com.aspire.vending.auth.Auth)
+com.aspire.vending.billing.BillingThread:
+    private static final java.lang.String TAG
+com.aspire.vending.cert.ApplyCertThread:
+    91:92:public void setAppKey(java.lang.String)
+com.aspire.vending.cert.CertManager:
+    private static final java.lang.String TAG
+    private static final int CHECK_CERT_OK
+    public static final int MSG_CHECK_CERT_DIALOG_PAD
+com.aspire.vending.copyright.ContentSignature:
+    48:48:public java.lang.String getDigest()
+com.aspire.vending.copyright.CopyrightCache:
+    38:41:public void removeCopyright()
+com.aspire.vending.copyright.CopyrightNetwork:
+    private static final java.lang.String TAG
+com.aspire.vending.copyright.CopyrightRequest:
+    private static final java.lang.String TAG
+com.aspire.vending.copyright.CopyrightSignature:
+    18:18:public java.lang.String getDigest()
+    21:22:public void setDigest(java.lang.String)
+com.aspire.vending.copyright.CopyrightUtil:
+    private static final java.lang.String TAG
+com.aspire.vending.db.DBHelper:
+    private static final java.lang.String TAG
+    private static final java.lang.String DATABASE_NAME
+    private static final java.lang.String CREATE_COPYRIGHT
+    private static final java.lang.String CREATE_AUTH
+com.aspire.vending.fingerprint.CrypException:
+    private static final long serialVersionUID
+    19:20:public CrypException(java.lang.String,java.lang.Exception)
+    24:24:public int getErrorcode()
+com.aspire.vending.fingerprint.IdentifyApp:
+    private static final java.lang.String TAG
+    public static final int NO_ERROR
+    public static final int NOT_INITED
+    public static final int PARAM_INVALID
+    public static final int FILE_IO
+    public static final int SF_NOT_FOUND
+    public static final int THREAD_ERROR
+    public static final int COMPUTING
+    public static final int DATA_ERROR
+    public static native byte[] encrypt(byte[],java.lang.String)
+    public static native java.lang.String getKeymap()
+com.aspire.vending.fingerprint.MarkManager:
+    public static final int FINGERPRINT_SUCCESS
+    public static final int FINGERPRINT_INIT_FAILED
+    public static final int FINGERPRINT_PARAM_ERROR
+    public static final int FINGERPRINT_FILE_ERROR
+    public static final int FINGERPRINT_SF_INVALID
+    public static final int FINGERPRINT_THREAD_ERROR
+    public static final int FINGERPRINT_COMPUTING
+    public static final int FINGERPRINT_DATA_ERROR
+    63:69:public MarkManager(java.lang.String,java.lang.String,android.content.Context)
+com.aspire.vending.pad.PadCertDialogFactory:
+    public static final int HANDLER_TIME_WAIT
+    public static final int HANDLER_TIME_FINISH
+    62:63:public void setPadLayout(com.aspire.vending.pad.PadCertLayout)
+    70:71:public void setAppId(java.lang.String)
+com.aspire.vending.pad.PadCertLayout:
+    569:571:protected void changedMessageStatus()
+    574:575:protected void getTokenFialed()
+    672:675:protected void deviceNameFocus(java.lang.Boolean)
+    679:679:protected void authCodeFocus(java.lang.Boolean)
+    699:703:protected void lockInput()
+    706:710:protected void unLockInput()
+com.aspire.vending.pad.PadCertListener:
+    private static final int CHECK_CERT_OK
+    private static final int MSG_ORDER_CHECK_CERT
+    103:106:private void showSoftKey()
+com.aspire.vending.pad.PadDialogUtil:
+    public static final java.lang.String PHONE_REQUEST
+    public static final java.lang.String PHONE_NUM_ERROR
+    public static final java.lang.String PHONE_NUM_SIM_ERROR
+    public static final java.lang.String PHONE_NUM_OK
+    public static final java.lang.String DEVICE_NAME_ERROR
+    public static final java.lang.String DEVICE_NANE
+    public static final java.lang.String PHONE_NUM
+    public static final java.lang.String AUTH_STATUS_WAITTING
+    public static final java.lang.String AUTH_STATUS_LEFT_TIME
+    public static final java.lang.String AUTH_STATUS_REQUEST
+    public static final java.lang.String AUTH_CHECK_ERR
+    public static final java.lang.String AUTH_CHECK_OK
+    public static final java.lang.String AUTH_BUTTON_UNCLICK_WARN
+    public static final java.lang.String MESSAGE_SHOW_TEXT
+    public static final java.lang.String AUTH_REQUEST_START_TXT
+    public static final java.lang.String AUTH_REQUEST_FAILED_TXT
+    public static final java.lang.String AUTH_REQUEST_SUCCESS_TXT
+    public static final java.lang.String AUTH_REQUEST_SID_ERR
+    public static final java.lang.String AUTH_REQUEST_PKI_ERR
+    public static final java.lang.String AUTH_REQUEST_SAVE_FAILED
+    public static final java.lang.String AUTH_REQUEST_PARM_ERR
+    public static final java.lang.String AUTH_REQUEST_OTHER_ERR
+    public static final java.lang.String AUTH_REQUEST_PHONE_ERR
+    public static final java.lang.String AUTH_REQUEST_CODE_SUCCESS
+    public static final int PAD_REQUEST_CODE_SUCCESS
+    public static final int PAD_REQUEST_NO_CERT
+    public static final int PAD_REQUEST_SID_ERR
+    public static final int PAD_REQUEST_FKI_FAILED
+    public static final int PAD_REQUEST_CERT_FAILED
+    public static final int PAD_REQUEST_CERT_SAVE_FAILED
+    public static final int PAD_REQUEST_CERT_PARM_ERR
+    public static final int PAD_REQUEST_CERT_OTHER
+    public static final int AUTH_OK_STATUS
+    public static final int AUTH_PHONE_ERROR_STATUS
+    public static final int AUTH_PHONE_NULL_ERR_STATUS
+    public static final int AUTH_PHONE_OK
+    public static final int AUTH_DEVICE_NAME_NULL_ERR_STATUS
+    public static final int AUTH_DEVICE_NAME_OK
+    public static final int AUTH_REQUEST_START_STATUS
+    public static final int AUTH_REQUEST_SUCCESS_STATUS
+    public static final int AUTH_REQUEST_FAILED_STATUS
+    private static final java.lang.String CHECK_STRING
+    78:78:public static java.lang.String getDeviceName(android.content.Context)
+com.aspire.vending.query.QueryNetwork:
+    private static final java.lang.String TAG
+com.aspire.vending.query.QueryRequest:
+    23:24:public void setStatusCode(mm.vending.OnPurchaseListener$StatusCode)
+    27:27:public java.lang.String getProgramId()
+com.aspire.vending.query.QueryResponse:
+    10:10:public java.lang.String getRamNum()
+com.aspire.vending.sms.SMSHandler
+com.aspire.vending.sms.SMSNetwork:
+    private static final java.lang.String TAG
+    private static final java.lang.String REQUEST_SMS_SUCCESS
+    private static final java.lang.String REQUEST_SMS_FAILED
+    private static final java.lang.String REQUEST_SMS_INVALID_SESSION
+    private static final java.lang.String REQUEST_SMS_CSSP_BUSY
+    private static final java.lang.String REQUEST_SMS_OTHER_ERR
+    private static final java.lang.String SMS_NETWORK_FAIL
+    private static final java.lang.String SMS_PARSE_FAIL
+    private static final java.lang.String SMS_SDK_ERROR
+    private static final java.lang.String SMS_CREATE_REQUEST_FAILED
+com.aspire.vending.sms.SMSReqFactory:
+    public static final int SMS_REQUEST
+com.aspire.vending.unsubscribe.UnsubscribeRequest:
+    25:26:public void setStatusCode(mm.vending.OnPurchaseListener$StatusCode)
+    33:34:public void setChannelId(java.lang.String)
+com.aspire.vending.unsubscribe.UnsubscribeResponse:
+    9:9:public java.lang.String getRamNum()
+com.aspire.vending.unsubscribe.UnsubscribeThread:
+    private static final java.lang.String TAG
+com.aspire.vending.util.ChannelIDManager:
+    private static final java.lang.String TAG
+com.aspire.vending.util.Config:
+    private static final java.lang.String TAG
+    protected static final boolean LOG_ON
+    public static final int DEBUG_LEVEL
+    public static final int WARN_LEVEL
+    public static final int ERROR_LEVEL
+    public static final int CERT_UPDATE_ERR
+    protected static final int LOG_ON_LEVEL
+com.aspire.vending.util.DeviceUtil:
+    public static final int SCREEN_LEVEL_L
+    public static final int SCREEEN_LEVEL_M
+    public static final int SCREEN_LEVEL_H
+    private static final int SCREEN_STAND_WIDTH
+    28:31:public static java.lang.String getLocalMacAddress(android.content.Context)
+com.aspire.vending.util.LOGThread
+com.aspire.vending.util.LogWatcher:
+    113:113:public void LogReader(java.lang.String)
+    131:157:public static void log(int)
+    160:170:private static java.lang.Boolean filterById(java.lang.String,int)
+com.aspire.vending.util.NetworkUtil:
+    private static final java.lang.String TAG
+    public static final boolean IS_TESTING
+    private static final boolean SUPPORT_SSL
+    private static final int HTTP_TIMEOUT
+    private static final int DATA_TIMEOUT
+    public static final int ERROR_LEVEL
+    public static final int RETRY_TIMES
+    private static final boolean isLanNet
+    56:70:public static boolean isWiFiActive(android.content.Context)
+    276:276:public static java.lang.String getKeyServerIP()
+    281:281:public static java.lang.String getKeyServerPort()
+    286:286:public static java.lang.String getSmsNum()
+com.aspire.vending.util.SidSignatureException
+mm.vending.Purchase:
+    private static final java.lang.String TAG
+    private static final int MSG_SHOW_DIALOG
+    private static final int MSG_ORDER_CHECK_CERT
+    private static final int MSG_UNSUB_CHECK_CERT
+    private static final int CHECK_CERT_OK
+    337:339:private void clearCopyright()
+mm.vending.PurchaseInfo:
+    private boolean needPwdTxt
+    private java.lang.String programId
+    33:33:public boolean isNeedPwdTxt()
+    37:37:public java.lang.String getProgramId()
+    49:49:public mm.vending.Purchase getPurchase()
