@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>start_button1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,1851},{478,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{478,144}</string>
+			</dict>
+			<key>start_button2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{490,1851},{478,144}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{478,144}</string>
+			</dict>
+			<key>start_interface.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,4},{750,1333}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{750,1333}</string>
+			</dict>
+			<key>start_interface-1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{976,1601},{373,373}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{373,373}</string>
+			</dict>
+			<key>start_interface-2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,1345},{498,497}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{498,497}</string>
+			</dict>
+			<key>confirmBg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{509,1345},{651,248}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{651,248}</string>
+			</dict>
+			<key>confirmNo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,2003},{19,19}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{19,19}</string>
+			</dict>
+			<key>confirmSure.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{509,1601},{454,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{454,84}</string>
+			</dict>
+			<key>font2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{4,2003},{286,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{286,23}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>startGame.png</string>
+			<key>realTextureFileName</key>
+			<string>startGame.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>
